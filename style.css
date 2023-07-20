@@ -52,6 +52,7 @@ width: 10%;
 
 .estudante-icone{
     width: 24px;
+    padding: 24px;
 }
 
 .estudante-div{
@@ -66,6 +67,23 @@ width: 10%;
 .estudante-todos{
     display: grid;
     grid-template-columns: 50% 50%;
+    text-align: right;
+}
+
+.estudante-arthur-texto-um{
+padding: 0 24px;
+}
+
+.estudante-gustavo-texto-um{
+padding: 0 24px;
+}
+
+.estudante-laura-texto-um{
+padding: 0 24px;
+}
+
+.estudante-felipe-texto-um{
+padding: 0 24px;
 }
 
 .rodape{
