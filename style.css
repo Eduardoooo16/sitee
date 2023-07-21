@@ -23,6 +23,11 @@ width: 10%;
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+    color: white;
+}
+ 
+.cabeçalho-lista-item:hover{
+    color: aqua;
 }
 
 .escola-imagem{
@@ -53,6 +58,27 @@ width: 10%;
 .estudante-icone{
     width: 24px;
     padding: 24px;
+}
+
+.emílio-de-meneses{
+    background-image: linear-gradient(#000000,#FF0000);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.emílio-de-meneses-div-conteudo{
+    width: 35%;
+}
+
+.emílio-de-meneses-titulo{
+    padding: 24px 0;
+}
+
+.emílio-de-meneses-imagem{
+    width: 20%;
 }
 
 .estudante-div{
